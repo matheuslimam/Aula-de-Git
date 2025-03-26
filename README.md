@@ -2,7 +2,7 @@
 # 📘 Curso de Git - LINCE
 
 Bem-vindo à Pizzaria PINCE! 🍕 Este repositório é um guia para quem está aprendendo Git do zero, com comandos essenciais, analogias divertidas e dicas práticas para trabalhar com controle de versão como um verdadeiro chef de código.
-teste 2
+teste 2 oull request
 ---
 
 ## 🚀 Começando
